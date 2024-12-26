@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for In-folia	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://xoco70.github.io/infolia/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://xoco70.github.io/infolia/</link>
 	<description></description>
 	<lastBuildDate>Wed, 25 Dec 2024 16:47:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
